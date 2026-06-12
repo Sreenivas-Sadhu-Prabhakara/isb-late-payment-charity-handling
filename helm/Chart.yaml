@@ -1,0 +1,14 @@
+apiVersion: v2
+name: isb-late-payment-charity-handling
+description: "BIAN Service Domain: Late Payment Charity Handling (Process pattern, Islamic Financing)"
+type: application
+version: 0.1.0
+appVersion: "0.1.0"
+keywords:
+  - islamic-banking
+  - process
+annotations:
+  isb/business-area: "Islamic Financing"
+  isb/business-domain: "Lease And Partnership Financing"
+  isb/asset-type: "Late Payment Charity Entry"
+  isb/control-record: "Late Payment Charity Entry Procedure"
